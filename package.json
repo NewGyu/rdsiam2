@@ -1,0 +1,16 @@
+{
+  "name": "rdsiam-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.183.0",
+    "mysql2": "^1.5.1",
+    "sequelize": "^4.31.2"
+  }
+}
